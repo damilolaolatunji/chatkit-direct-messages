@@ -1,6 +1,6 @@
 # Chatkit Direct Messages
 
-Send one-on-one direct messages with Chatkit. Tutorial:
+Send one-on-one direct messages with Chatkit. Tutorial: https://pusher.com/tutorials/react-direct-messaging
 
 ## Getting Started
 
